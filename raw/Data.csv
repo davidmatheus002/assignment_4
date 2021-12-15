@@ -1,0 +1,514 @@
+﻿ID;Trip Frequency;Age;Gender;Seat sit 1;Seat sit 2;Seat sit 3
+1;1-3 times per week;25-34;Male;8;30;4
+2;1-3 times per week;35-44;Female;32;37;39
+3;More than 4 times per week;25-34;Female;19;14;14
+4;1-3 times per week;18-24;Male;32;16;20
+5;Once a month;25-34;Male;10;23;39
+6;More than 4 times per week;18-24;Female;7;23;31
+7;1-3 times per week;45-54;Male;10;12;1
+8;More than 4 times per week;45-54;Male;7;12;21
+9;Once a month;25-34;Female;32;15;21
+10;More than 4 times per week;55-64;Female;31;12;4
+11;1-3 times per week;18-24;Female;32;11;31
+12;1-3 times per week;18-24;Female;29;37;17
+13;More than 4 times per week;45-54;Male;5;12;6
+14;Once a month;35-44;Female;9;11;12
+15;1-3 times per week;25-34;Male;7;16;21
+16;1-3 times per week;25-34;Female;31;12;12
+17;1-3 times per week;25-34;Male;32;23;21
+18;1-3 times per week;35-44;Female;30;24;31
+19;Once a month;75-84;Male;7;12;21
+20;Once a month;35-44;Female;32;37;21
+21;1-3 times per week;35-44;Male;7;12;21
+22;1-3 times per week;18-24;Female;31;12;4
+23;More than 4 times per week;45-54;Male;7;12;21
+24;1-3 times per week;25-34;Female;7;23;4
+25;1-3 times per week;45-54;Female;32;15;31
+26;More than 4 times per week;25-34;Female;10;12;15
+27;More than 4 times per week;25-34;Male;34;11;21
+28;More than 4 times per week;18-24;Female;9;23;21
+29;1-3 times per week;35-44;Female;9;12;4
+30;1-3 times per week;35-44;Male;34;38;30
+31;1-3 times per week;45-54;Male;31;37;12
+32;More than 4 times per week;55-64;Male;32;23;1
+33;1-3 times per week;45-54;Female;22;11;21
+34;More than 4 times per week;18-24;Female;32;11;21
+35;More than 4 times per week;35-44;Male;32;12;12
+36;1-3 times per week;25-34;Female;32;12;12
+37;1-3 times per week;55-64;Female;32;12;12
+38;More than 4 times per week;35-44;Male;7;12;4
+39;More than 4 times per week;25-34;Male;32;21;21
+40;1-3 times per week;25-34;Female;31;16;31
+41;1-3 times per week;25-34;Male;30;23;21
+42;More than 4 times per week;18-24;Female;30;12;31
+43;1-3 times per week;45-54;Male;30;11;12
+44;1-3 times per week;25-34;Female;32;11;21
+45;1-3 times per week;35-44;Male;10;12;17
+46;Once a month;35-44;Female;31;11;27
+47;1-3 times per week;18-24;Female;29;11;23
+48;1-3 times per week;65-74;Female;5;12;21
+49;1-3 times per week;18-24;Female;32;15;20
+50;1-3 times per week;18-24;Female;7;23;23
+51;More than 4 times per week;18-24;Male;32;23;23
+52;1-3 times per week;25-34;Female;10;16;21
+53;1-3 times per week;25-34;Male;32;39;39
+54;More than 4 times per week;45-54;Female;32;16;20
+55;1-3 times per week;45-54;Female;32;11;7
+56;Once a month;55-64;Male;17;24;17
+57;More than 4 times per week;25-34;Male;7;15;1
+58;1-3 times per week;65-74;Female;32;12;12
+59;More than 4 times per week;18-24;Male;22;23;21
+60;More than 4 times per week;35-44;Female;22;23;21
+61;Once a month;55-64;Male;22;21;21
+62;Once a month;25-34;Female;5;23;21
+63;Once a month;35-44;Male;7;23;21
+64;More than 4 times per week;45-54;Male;8;12;12
+65;Once a month;18-24;Male;9;1;1
+66;1-3 times per week;55-64;Male;7;12;12
+67;More than 4 times per week;25-34;Female;7;16;21
+68;1-3 times per week;18-24;Male;31;12;12
+69;Once a month;25-34;Female;10;39;21
+70;More than 4 times per week;18-24;Female;32;11;14
+71;1-3 times per week;45-54;Male;22;15;6
+72;1-3 times per week;55-64;Female;32;12;4
+73;Once a month;25-34;Female;7;12;12
+74;1-3 times per week;65-74;Male;7;37;39
+75;1-3 times per week;18-24;Female;32;12;12
+76;More than 4 times per week;35-44;Female;31;12;4
+77;Once a month;45-54;Male;7;37;21
+78;More than 4 times per week;35-44;Female;32;12;21
+79;Once a month;25-34;Male;24;24;1
+80;Once a month;45-54;Male;19;16;21
+81;More than 4 times per week;35-44;Male;31;12;12
+82;More than 4 times per week;35-44;Male;22;12;21
+83;1-3 times per week;45-54;Female;20;23;21
+84;Once a month;55-64;Male;7;12;12
+85;1-3 times per week;65-74;Female;32;12;12
+86;More than 4 times per week;55-64;Male;32;12;4
+87;More than 4 times per week;25-34;Male;32;15;6
+88;1-3 times per week;25-34;Female;7;11;10
+89;More than 4 times per week;45-54;Male;10;16;6
+90;1-3 times per week;25-34;Female;32;12;14
+91;More than 4 times per week;25-34;Male;7;12;20
+92;Once a month;18-24;Female;22;11;12
+93;1-3 times per week;35-44;Female;8;12;12
+94;Once a month;18-24;Male;33;21;21
+95;1-3 times per week;25-34;Female;28;16;21
+96;1-3 times per week;35-44;Male;8;11;21
+97;1-3 times per week;45-54;Male;10;37;15
+98;1-3 times per week;18-24;Female;34;38;21
+99;1-3 times per week;65-74;Male;32;12;6
+100;More than 4 times per week;45-54;Male;32;12;10
+101;Once a month;18-24;Male;7;23;6
+102;More than 4 times per week;18-24;Male;34;16;23
+103;More than 4 times per week;35-44;Male;22;21;21
+104;More than 4 times per week;35-44;Male;31;12;12
+105;More than 4 times per week;25-34;Male;36;16;31
+106;1-3 times per week;25-34;Male;32;12;12
+107;Once a month;55-64;Male;21;21;1
+108;More than 4 times per week;18-24;Male;9;15;27
+109;More than 4 times per week;18-24;Male;34;12;15
+110;1-3 times per week;65-74;Male;22;12;21
+111;More than 4 times per week;18-24;Female;31;24;31
+112;More than 4 times per week;55-64;Male;31;12;31
+113;Once a month;65-74;Male;7;23;23
+114;1-3 times per week;25-34;Male;9;12;31
+115;More than 4 times per week;18-24;Female;22;16;39
+116;1-3 times per week;35-44;Male;30;23;21
+117;Once a month;55-64;Female;9;37;39
+118;More than 4 times per week;25-34;Male;31;23;10
+119;Once a month;55-64;Male;10;12;12
+120;Once a month;75-84;Male;30;16;4
+121;1-3 times per week;25-34;Female;32;11;6
+122;More than 4 times per week;55-64;Female;33;31;31
+123;1-3 times per week;25-34;Male;7;23;23
+124;More than 4 times per week;55-64;Male;22;37;21
+125;1-3 times per week;35-44;Male;32;12;7
+126;1-3 times per week;25-34;Male;7;1;1
+127;Once a month;65-74;Female;7;12;17
+128;Once a month;35-44;Male;32;12;1
+129;1-3 times per week;65-74;Male;10;12;21
+130;1-3 times per week;35-44;Male;19;15;14
+131;Once a month;65-74;Male;22;23;21
+132;1-3 times per week;18-24;Female;32;12;31
+133;Once a month;55-64;Female;6;16;12
+134;1-3 times per week;35-44;Female;31;16;6
+135;1-3 times per week;18-24;Female;7;37;21
+136;Once a month;25-34;Female;32;15;21
+137;Once a month;18-24;Female;32;12;12
+138;More than 4 times per week;45-54;Female;31;37;1
+139;Once a month;35-44;Male;30;24;30
+140;Once a month;35-44;Male;5;15;14
+141;More than 4 times per week;55-64;Male;5;12;10
+142;1-3 times per week;75-84;Male;36;12;12
+143;Once a month;35-44;Female;32;16;6
+144;1-3 times per week;45-54;Female;5;23;12
+145;Once a month;25-34;Female;29;37;31
+146;Once a month;45-54;Male;30;11;21
+147;1-3 times per week;18-24;Male;17;11;6
+148;1-3 times per week;25-34;Male;32;23;21
+149;Once a month;45-54;Female;30;37;21
+150;More than 4 times per week;25-34;Female;31;16;10
+151;Once a month;55-64;Female;22;1;1
+152;1-3 times per week;35-44;Female;7;16;1
+153;1-3 times per week;55-64;Male;32;14;21
+154;1-3 times per week;25-34;Female;7;23;23
+155;1-3 times per week;45-54;Male;8;12;14
+156;Once a month;18-24;Male;34;11;21
+157;1-3 times per week;55-64;Male;22;15;6
+158;More than 4 times per week;45-54;Male;30;37;12
+159;More than 4 times per week;18-24;Female;22;15;23
+160;More than 4 times per week;25-34;Male;31;21;21
+161;Once a month;55-64;Female;5;15;20
+162;Once a month;55-64;Female;36;12;12
+163;Once a month;35-44;Female;29;23;20
+164;1-3 times per week;25-34;Male;34;16;31
+165;1-3 times per week;18-24;Female;5;21;21
+166;Once a month;55-64;Male;10;37;20
+167;1-3 times per week;18-24;Female;30;21;21
+168;More than 4 times per week;55-64;Female;9;16;1
+169;More than 4 times per week;25-34;Female;19;11;30
+170;1-3 times per week;65-74;Male;36;23;21
+171;Once a month;25-34;Male;10;12;12
+172;1-3 times per week;25-34;Female;32;38;6
+173;More than 4 times per week;18-24;Female;31;23;23
+174;Once a month;65-74;Female;34;16;14
+175;More than 4 times per week;45-54;Male;32;23;21
+176;More than 4 times per week;35-44;Male;32;38;39
+177;1-3 times per week;45-54;Male;21;12;21
+178;More than 4 times per week;18-24;Female;5;11;21
+179;More than 4 times per week;45-54;Male;7;23;4
+180;More than 4 times per week;55-64;Female;7;23;4
+181;1-3 times per week;45-54;Female;34;23;12
+182;Once a month;18-24;Male;29;12;21
+183;More than 4 times per week;18-24;Male;5;16;39
+184;1-3 times per week;25-34;Female;9;23;12
+185;More than 4 times per week;35-44;Male;9;12;23
+186;Once a month;45-54;Male;33;12;12
+187;Once a month;25-34;Female;5;11;21
+188;1-3 times per week;45-54;Female;34;12;21
+189;1-3 times per week;35-44;Male;8;16;20
+190;Once a month;55-64;Female;5;12;21
+191;1-3 times per week;75-84;Male;7;12;12
+192;1-3 times per week;45-54;Female;8;12;12
+193;More than 4 times per week;25-34;Zeg ik liever niet;11;6;39
+194;More than 4 times per week;25-34;Male;32;15;12
+195;Once a month;35-44;Female;17;37;12
+196;Once a month;35-44;Female;34;16;27
+197;1-3 times per week;65-74;Male;33;12;1
+198;1-3 times per week;35-44;Male;32;16;6
+199;More than 4 times per week;18-24;Male;32;11;39
+200;1-3 times per week;35-44;Male;32;16;21
+201;More than 4 times per week;45-54;Male;9;12;6
+202;1-3 times per week;45-54;Male;33;37;6
+203;More than 4 times per week;35-44;Female;30;11;21
+204;Once a month;65-74;Male;8;16;7
+205;Once a month;55-64;Male;34;38;39
+206;1-3 times per week;55-64;Female;34;12;21
+207;1-3 times per week;18-24;Male;9;11;10
+208;1-3 times per week;35-44;Female;34;12;20
+209;Once a month;65-74;Male;31;23;21
+210;1-3 times per week;75-84;Male;32;16;21
+211;1-3 times per week;18-24;Male;30;11;21
+212;Once a month;65-74;Male;7;12;4
+213;More than 4 times per week;18-24;Male;9;12;21
+214;More than 4 times per week;25-34;Female;10;12;21
+215;1-3 times per week;35-44;Female;22;24;31
+216;1-3 times per week;35-44;Female;5;12;27
+217;More than 4 times per week;55-64;Male;14;37;34
+218;Once a month;25-34;Female;34;11;1
+219;More than 4 times per week;18-24;Male;9;23;34
+220;1-3 times per week;25-34;Male;7;12;21
+221;1-3 times per week;45-54;Female;8;12;21
+222;More than 4 times per week;18-24;Male;30;23;21
+223;Once a month;55-64;Male;7;16;6
+224;More than 4 times per week;45-54;Female;22;23;21
+225;More than 4 times per week;35-44;Female;10;23;6
+226;1-3 times per week;55-64;Female;31;21;21
+227;More than 4 times per week;25-34;Male;29;23;12
+228;Once a month;55-64;Female;7;16;39
+229;Once a month;65-74;Male;31;23;21
+230;1-3 times per week;65-74;Female;9;12;6
+231;1-3 times per week;45-54;Male;7;16;15
+232;More than 4 times per week;25-34;Female;31;12;12
+233;Once a month;55-64;Male;31;15;21
+234;More than 4 times per week;18-24;Male;9;15;12
+235;Once a month;55-64;Male;20;16;6
+236;1-3 times per week;35-44;Female;32;12;12
+237;1-3 times per week;35-44;Male;8;6;6
+238;Once a month;65-74;Female;19;12;21
+239;1-3 times per week;25-34;Male;31;12;6
+240;More than 4 times per week;18-24;Male;30;15;21
+241;More than 4 times per week;35-44;Female;32;37;39
+242;1-3 times per week;65-74;Male;31;12;12
+243;1-3 times per week;35-44;Female;32;12;12
+244;1-3 times per week;45-54;Female;7;23;21
+245;Once a month;55-64;Male;8;12;21
+246;Once a month;35-44;Male;9;39;20
+247;Once a month;35-44;Male;32;12;21
+248;More than 4 times per week;45-54;Male;32;38;14
+249;1-3 times per week;18-24;Male;17;12;21
+250;Once a month;65-74;Male;10;16;20
+251;More than 4 times per week;25-34;Male;6;15;21
+252;1-3 times per week;35-44;Female;29;16;21
+253;More than 4 times per week;18-24;Female;22;15;31
+254;1-3 times per week;18-24;Male;32;11;12
+255;Once a month;35-44;Male;32;16;1
+256;1-3 times per week;45-54;Female;32;23;21
+257;Once a month;65-74;Female;32;24;21
+258;More than 4 times per week;35-44;Male;7;11;12
+259;More than 4 times per week;18-24;Female;8;12;4
+260;More than 4 times per week;45-54;Male;34;23;12
+261;Once a month;55-64;Female;31;39;39
+262;Once a month;35-44;Male;9;23;6
+263;1-3 times per week;65-74;Male;7;16;15
+264;More than 4 times per week;55-64;Female;19;39;39
+265;1-3 times per week;45-54;Male;30;12;10
+266;1-3 times per week;45-54;Female;32;12;21
+267;Once a month;55-64;Male;5;11;4
+268;1-3 times per week;65-74;Male;32;12;12
+269;1-3 times per week;55-64;Male;7;12;27
+270;Once a month;45-54;Male;10;23;23
+271;Once a month;55-64;Male;32;12;15
+272;1-3 times per week;25-34;Male;5;23;21
+273;1-3 times per week;55-64;Female;32;15;15
+274;Once a month;18-24;Female;22;4;4
+275;More than 4 times per week;25-34;Male;6;12;1
+276;Once a month;25-34;Female;30;12;21
+277;Once a month;18-24;Male;32;23;31
+278;Once a month;55-64;Male;5;15;31
+279;1-3 times per week;75-84;Male;7;12;1
+280;1-3 times per week;35-44;Male;34;15;31
+281;1-3 times per week;35-44;Female;7;31;31
+282;Once a month;75-84;Female;7;16;1
+283;Once a month;45-54;Male;22;23;4
+284;More than 4 times per week;55-64;Male;32;16;12
+285;More than 4 times per week;25-34;Male;31;12;21
+286;1-3 times per week;35-44;Female;18;21;14
+287;1-3 times per week;35-44;Male;7;23;23
+288;1-3 times per week;65-74;Male;19;37;20
+289;Once a month;65-74;Male;24;23;23
+290;1-3 times per week;25-34;Male;19;11;10
+291;More than 4 times per week;55-64;Female;7;37;17
+292;1-3 times per week;55-64;Male;32;23;4
+293;1-3 times per week;65-74;Male;22;37;21
+294;Once a month;25-34;Female;31;12;4
+295;1-3 times per week;55-64;Male;30;12;21
+296;1-3 times per week;25-34;Male;34;15;21
+297;1-3 times per week;25-34;Female;7;23;21
+298;1-3 times per week;55-64;Female;22;12;21
+299;Once a month;65-74;Female;7;17;20
+300;Once a month;35-44;Male;32;11;17
+301;1-3 times per week;55-64;Male;7;16;1
+302;More than 4 times per week;45-54;Male;32;12;21
+303;1-3 times per week;25-34;Female;32;16;20
+304;1-3 times per week;35-44;Male;34;30;20
+305;Once a month;65-74;Male;8;15;4
+306;1-3 times per week;45-54;Male;22;23;21
+307;1-3 times per week;55-64;Male;31;12;12
+308;1-3 times per week;55-64;Female;8;37;12
+309;Once a month;55-64;Male;17;20;20
+310;Once a month;55-64;Male;5;15;10
+311;More than 4 times per week;35-44;Female;14;12;21
+312;1-3 times per week;35-44;Male;6;12;21
+313;Once a month;65-74;Male;7;16;12
+314;Once a month;45-54;Female;32;12;12
+315;Once a month;55-64;Male;31;12;23
+316;More than 4 times per week;45-54;Female;32;37;20
+317;1-3 times per week;55-64;Male;7;30;15
+318;More than 4 times per week;55-64;Male;19;38;20
+319;1-3 times per week;55-64;Male;7;12;15
+320;Once a month;55-64;Male;29;12;4
+321;More than 4 times per week;25-34;Male;7;12;21
+322;1-3 times per week;18-24;Overig;30;12;21
+323;Once a month;65-74;Female;7;12;12
+324;1-3 times per week;55-64;Male;7;38;31
+325;1-3 times per week;65-74;Female;5;23;6
+326;1-3 times per week;65-74;Female;22;11;20
+327;1-3 times per week;55-64;Female;32;16;12
+328;1-3 times per week;35-44;Female;21;37;21
+329;1-3 times per week;45-54;Female;8;12;21
+330;1-3 times per week;55-64;Female;33;16;6
+331;More than 4 times per week;45-54;Overig;22;39;39
+332;1-3 times per week;35-44;Male;35;12;31
+333;Once a month;25-34;Male;32;23;30
+334;1-3 times per week;18-24;Male;7;12;12
+335;1-3 times per week;55-64;Female;29;23;12
+336;More than 4 times per week;65-74;Male;32;15;20
+337;More than 4 times per week;35-44;Male;32;11;12
+338;1-3 times per week;35-44;Female;8;23;21
+339;1-3 times per week;55-64;Female;32;24;39
+340;1-3 times per week;35-44;Female;7;37;21
+341;1-3 times per week;35-44;Male;31;12;39
+342;1-3 times per week;45-54;Female;29;12;21
+343;1-3 times per week;45-54;Female;10;12;17
+344;Once a month;25-34;Female;6;12;6
+345;Once a month;75-84;Female;18;16;21
+346;Once a month;55-64;Male;7;23;6
+347;Once a month;35-44;Male;7;15;1
+348;Once a month;65-74;Female;10;23;23
+349;1-3 times per week;45-54;Female;30;16;17
+350;Once a month;45-54;Female;32;11;6
+351;Once a month;35-44;Female;7;12;12
+352;1-3 times per week;55-64;Female;8;37;1
+353;1-3 times per week;65-74;Female;10;39;21
+354;Once a month;65-74;Female;3;11;21
+355;Once a month;55-64;Female;9;23;23
+356;More than 4 times per week;45-54;Male;29;12;31
+357;More than 4 times per week;45-54;Female;30;23;15
+358;1-3 times per week;35-44;Female;34;12;12
+359;Once a month;65-74;Female;19;37;1
+360;Once a month;45-54;Male;18;12;39
+361;Once a month;45-54;Male;8;37;12
+362;Once a month;45-54;Female;19;23;1
+363;1-3 times per week;35-44;Male;19;16;21
+364;1-3 times per week;18-24;Female;29;16;20
+365;1-3 times per week;55-64;Female;7;12;12
+366;1-3 times per week;75-84;Male;7;1;21
+367;1-3 times per week;55-64;Male;7;12;21
+368;Once a month;65-74;Female;31;12;21
+369;1-3 times per week;65-74;Female;29;37;20
+370;Once a month;65-74;Female;9;12;39
+371;1-3 times per week;75-84;Female;22;15;1
+372;1-3 times per week;45-54;Female;32;21;21
+373;1-3 times per week;45-54;Male;8;12;12
+374;Once a month;65-74;Female;10;12;31
+375;1-3 times per week;55-64;Male;9;1;1
+376;1-3 times per week;45-54;Female;30;12;12
+377;Once a month;65-74;Female;22;23;1
+378;More than 4 times per week;45-54;Female;29;12;21
+379;Once a month;45-54;Female;32;12;14
+380;1-3 times per week;65-74;Female;9;12;20
+381;1-3 times per week;18-24;Female;32;12;6
+382;1-3 times per week;55-64;Female;8;12;12
+383;1-3 times per week;45-54;Female;32;12;12
+384;1-3 times per week;45-54;Female;32;11;4
+385;1-3 times per week;45-54;Male;32;12;31
+386;Once a month;55-64;Female;29;15;12
+387;1-3 times per week;45-54;Female;8;16;21
+388;1-3 times per week;45-54;Female;32;23;20
+389;Once a month;65-74;Male;32;15;21
+390;More than 4 times per week;55-64;Male;34;11;10
+391;Once a month;55-64;Male;9;15;1
+392;Once a month;65-74;Female;30;12;12
+393;Once a month;45-54;Male;32;12;14
+394;1-3 times per week;45-54;Female;7;12;21
+395;1-3 times per week;25-34;Male;32;15;12
+396;1-3 times per week;55-64;Male;22;37;4
+397;Once a month;65-74;Female;19;15;15
+398;Once a month;65-74;Male;22;23;4
+399;1-3 times per week;65-74;Male;34;21;39
+400;More than 4 times per week;45-54;Female;7;12;21
+401;1-3 times per week;35-44;Male;30;38;6
+402;Once a month;45-54;Female;22;24;21
+403;1-3 times per week;35-44;Female;36;16;31
+404;1-3 times per week;45-54;Female;30;12;4
+405;More than 4 times per week;35-44;Male;8;12;21
+406;1-3 times per week;25-34;Male;19;23;39
+407;Once a month;25-34;Male;9;12;10
+408;1-3 times per week;65-74;Female;10;12;21
+409;1-3 times per week;65-74;Male;12;12;21
+410;1-3 times per week;55-64;Male;32;12;31
+411;1-3 times per week;45-54;Male;32;10;21
+412;1-3 times per week;45-54;Female;11;1;1
+413;1-3 times per week;65-74;Male;32;37;4
+414;1-3 times per week;18-24;Male;30;23;12
+415;1-3 times per week;45-54;Male;31;12;23
+416;Once a month;65-74;Male;7;23;12
+417;Once a month;55-64;Male;22;23;1
+418;1-3 times per week;18-24;Male;19;15;21
+419;Once a month;55-64;Female;7;23;4
+420;Once a month;55-64;Female;7;12;21
+421;1-3 times per week;65-74;Male;31;12;21
+422;Once a month;65-74;Female;20;17;14
+423;Once a month;55-64;Female;19;12;21
+424;1-3 times per week;65-74;Female;36;37;39
+425;Once a month;45-54;Female;19;12;12
+426;1-3 times per week;55-64;Male;9;12;12
+427;Once a month;55-64;Male;6;38;21
+428;Once a month;45-54;Male;21;12;10
+429;Once a month;55-64;Male;22;37;39
+430;1-3 times per week;55-64;Female;19;37;10
+431;Once a month;65-74;Female;24;23;23
+432;Once a month;55-64;Female;22;16;23
+433;1-3 times per week;35-44;Female;31;38;39
+434;1-3 times per week;55-64;Male;22;16;12
+435;1-3 times per week;25-34;Female;22;23;4
+436;1-3 times per week;55-64;Male;30;12;12
+437;1-3 times per week;75-84;Female;3;23;21
+438;1-3 times per week;35-44;Female;16;12;10
+439;Once a month;65-74;Male;7;23;21
+440;Once a month;55-64;Female;34;11;21
+441;Once a month;65-74;Male;8;12;7
+442;1-3 times per week;45-54;Female;32;12;12
+443;More than 4 times per week;55-64;Male;8;12;12
+444;Once a month;55-64;Female;10;12;31
+445;1-3 times per week;55-64;Male;31;23;31
+446;1-3 times per week;35-44;Female;29;11;39
+447;More than 4 times per week;18-24;Female;30;38;6
+448;Once a month;45-54;Female;7;16;21
+449;1-3 times per week;55-64;Female;20;16;14
+450;1-3 times per week;35-44;Female;37;37;39
+451;1-3 times per week;55-64;Female;7;12;21
+452;1-3 times per week;55-64;Female;32;12;12
+453;Once a month;65-74;Female;9;12;17
+454;Once a month;55-64;Female;29;12;20
+455;More than 4 times per week;45-54;Female;32;16;21
+456;1-3 times per week;35-44;Female;31;37;21
+457;Once a month;65-74;Female;34;12;17
+458;1-3 times per week;45-54;Female;9;12;4
+459;Once a month;75-84;Female;19;12;39
+460;Once a month;55-64;Female;32;24;4
+461;More than 4 times per week;65-74;Female;6;12;6
+462;Once a month;65-74;Female;22;23;23
+463;Once a month;65-74;Female;19;16;1
+464;1-3 times per week;55-64;Female;30;12;23
+465;Once a month;65-74;Female;18;6;17
+466;Once a month;25-34;Male;32;11;12
+467;More than 4 times per week;35-44;Male;22;23;23
+468;Once a month;25-34;Male;7;21;21
+469;1-3 times per week;25-34;Female;32;24;21
+470;Once a month;25-34;Female;32;11;12
+471;More than 4 times per week;18-24;Female;30;11;21
+472;More than 4 times per week;25-34;Male;9;23;21
+473;More than 4 times per week;25-34;Female;34;11;12
+474;Once a month;18-24;Male;32;15;20
+475;Once a month;55-64;Male;17;16;21
+476;1-3 times per week;18-24;Female;32;15;31
+477;More than 4 times per week;25-34;Male;7;12;12
+478;1-3 times per week;25-34;Female;6;12;4
+479;More than 4 times per week;35-44;Male;8;16;6
+480;1-3 times per week;18-24;Female;22;11;10
+481;Once a month;25-34;Male;7;12;14
+482;1-3 times per week;18-24;Female;5;12;21
+483;More than 4 times per week;18-24;Female;22;23;21
+484;Once a month;45-54;Male;32;23;14
+485;More than 4 times per week;25-34;Male;32;12;4
+486;1-3 times per week;18-24;Female;24;11;12
+487;1-3 times per week;18-24;Male;32;11;15
+488;1-3 times per week;18-24;Male;30;23;21
+489;Once a month;25-34;Female;34;11;31
+490;1-3 times per week;35-44;Male;9;12;12
+491;1-3 times per week;25-34;Female;32;23;21
+492;1-3 times per week;25-34;Female;32;15;23
+493;1-3 times per week;25-34;Male;32;12;21
+494;1-3 times per week;45-54;Female;29;6;10
+495;More than 4 times per week;18-24;Male;29;10;14
+496;1-3 times per week;35-44;Male;9;15;21
+497;Once a month;45-54;Male;7;38;39
+498;1-3 times per week;18-24;Male;30;37;31
+499;1-3 times per week;18-24;Female;9;11;6
+500;1-3 times per week;25-34;Male;6;23;21
+501;Once a month;55-64;Female;32;16;21
+502;More than 4 times per week;25-34;Female;32;11;12
+503;1-3 times per week;25-34;Female;30;23;21
+504;1-3 times per week;25-34;Female;10;12;14
+505;1-3 times per week;18-24;Female;32;11;21
+506;Once a month;35-44;Male;10;16;15
+507;More than 4 times per week;55-64;Male;32;12;1
+508;1-3 times per week;18-24;Female;9;12;12
+509;1-3 times per week;18-24;Female;9;15;21
+510;1-3 times per week;35-44;Male;9;12;10
+511;More than 4 times per week;25-34;Female;30;12;17
+512;1-3 times per week;25-34;Male;34;11;12
+513;More than 4 times per week;18-24;Female;32;12;14
